@@ -28,29 +28,99 @@
                 </div>
             </div>
         </nav>
-        <!-- Header-->
-        <header class="bg-dark bg-gradient text-white">
-            <div class="container px-4 text-center">
-                <h1 class="fw-bolder">Welcome to Melomaniac</h1>
-                <p class="lead">Add a short description here</p>
-                
-            </div>
-        </header>
+        
         <!-- About section-->
-        <section id="songs">
+        <section class="bg-image"
+            style = "background-image: url(images/photo_6.jpg);height: 100vh width: 100vw" id="songs">
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
-                    <div class="col-lg-12 text-center">
-                        <h2 class="text-primary">Song Title here</h2>
-                        <p class="lead">display the Composer here</p>
-                        <p>display the lyrics/chords here</p>
+                    <div class="col-lg-12 text-center" style="color:lightgoldenrodyellow;">
+                        <h2 class="text-dark">A Dangerous Thing</h2>
+                        <p class="text-dark">AURORA</p>
+                        <p> [Verse 1] </p>                                   
+                        <p> Something about you is soft like an angel </p>
+                        <p> And something inside you is violence and danger </p>
+                        <p> I knew from the moment we met,you are a dangerous thing</p>
+                        <p> When you are with me, I feel like i'm living</p> 
+                        <p> And living besides you can be unforgiving</p>
+                        <p> I knew form the very first step, you are a dangerous things</p>
+                        <br/>
+
+                        <p> [Chorus] </p>                        
+                        <p> There's no end to the fall</p>                        
+                        <p> You keep on getting better
+                        <p> I keep forgetting </p>                        
+                        <p> There's no love in the end</p>                        
+                        <p> I hope you will come</p>                        
+                        <p> I keep on losing feathers, I keep forgetting</p>
+                        <p> There's no love in the end</p>                        
+                        <p> No love in the end</p>                        
+                        <p> No love in the end</p>
+                        <p> No love in the end</p>
+                        <br/>
+
+                        <p>[Verse 2]</p>                        
+                        <p> Something about you is warm and sedusive, and</p>
+                        <div class="col-lg-12 text-center" style="color:black;" >
+                        <p> When you're with me you're cold and abusive</p>
+                        <p> I knew from the second we met, you are a dangerous flame</p>
+                        <p> You are a dangerous flame</p>
+                        <br/>
+
+                        <p> [Chorus] </p>
+                        <p> There's no end to the fall</p>
+                        <p> You keep on getting better</p>
+                        </div>
+                        <p> I keep forgetting </p>
+                        <p> There's no love in the end</p>
+                        <p> I hope you will come</p>
+                        <p> I keep on losing feathers, I keep forgetting</p>
+                        <p> There's no love in the end</p>                        
+                        <p> No love in the end</p>                        
+                        <p> No love in the end</p>                        
+                        <p> No love in the end</p>
+                        <br/>
+
+                        <p> [Post-Chorus] </p>                        
+                        <p> No love in the end</p>                        
+                        <p> No love in the end</p>                        
+                        <p> No love in the end</p>
+                        <br/>
+
+                        <p> [Bridge] </p>                        
+                        <p> I don't think I know myself, without your help</p>
+                        <p> Oh, I wonder why have I got a heaven deep inside of me</p>
+                        <p> I keep the light on, it keeps me warm</p>
+                        <p> I hate it when I fall for your illusion of love</p>
+                        <p> I know this is not love</p>
+                        <br/>
+
+                        <p> [Chorus] </p> 
+                        <div class="col-lg-12 text-center" style="color:black;">                       
+                        <p> There's no end to the fall</p>                        
+                        <p> You keep on getting better</p>
+                        <p> I keep forgetting </p>                        
+                        <p> There's no love in the end</p>                       
+                        <p> I hope you will come</p>
+                        </div>                        
+                        <p> I keep on losing feathers, I keep forgetting</p>
+                        <p> There's no love in the end</p>
+                        <p> No love in the end</p>                      
+                        <p> No love in the end</p>                        
+                        <p> No love in the end</p>
+                        <br/>
+
+                        <p> [Post-Chorus] </p>                        
+                        <p> No love in the end</p>                        
+                        <p> No love in the end</p>                        
+                        <p> No love in the end</p>
                     </div>
                 </div>
             </div>
         </section>
 
         <footer class="py-3 bg-danger">
-            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. add your fullname here</p></div>
+            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Darea Anne M. Jawili</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>
