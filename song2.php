@@ -119,8 +119,8 @@
             </div>
         </section>
 
-        <footer class="py-3 bg-danger">
-            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Darea Anne M. Jawili</p></div>
+        <footer class="py-3 bg-light">
+            <div class="container px-4"><p class="m-0 text-center text-dark">Copyright &copy; 2022. Darea Anne M. Jawili</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>

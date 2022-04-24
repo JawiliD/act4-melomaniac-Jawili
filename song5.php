@@ -29,16 +29,10 @@
                 </div>
             </div>
         </nav>
-        <!-- Header-->
-        <header class="bg-dark bg-gradient text-white">
-            <div class="container px-4 text-center">
-                <h1 class="fw-bolder">Welcome to Melomaniac</h1>
-                <p class="lead">Add a short description here</p>
-                
-            </div>
-        </header>
+        
         <!-- About section-->
-        <section id="songs">
+        <section class="bg-image"
+            style = "background-image: url(images/photo_9.jpg);height: 100vh width: 100vw" id="songs">
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
