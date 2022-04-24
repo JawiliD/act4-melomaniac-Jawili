@@ -35,7 +35,7 @@
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center" style="color: whitesmoke;">
                     <div class="col-lg-12 text-center">
-                        <h2 class="text-primary">Come Inside of My Heart</h2>
+                        <h2 class="text-danger">Come Inside of My Heart</h2>
                         <p class="lead">Ben&Ben</p>
 
                         <p>[Verse 1]</p>           

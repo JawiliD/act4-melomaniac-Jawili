@@ -31,7 +31,7 @@
         </nav>
         <!-- Header-->
         <header class="bg-image"
-                style = "background-image: url(images/photo_8.jpg);height: 100vh">
+                style = "background-image: url(images/photo_1.jpg);height: 100vh">
 
             <div class="container px-4 text-center">
                 <h1 class="fw-bolder">Welcome to Euphoria</h1>
