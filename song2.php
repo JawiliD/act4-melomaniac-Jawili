@@ -37,83 +37,158 @@
                     <div class="col-lg-12 text-center" style="color:lightgoldenrodyellow;">
                         <h2 class="text-dark">A Dangerous Thing</h2>
                         <p class="text-dark">AURORA</p>
-                        <p> [Verse 1] </p>                                   
-                        <p> Something about you is soft like an angel </p>
-                        <p> And something inside you is violence and danger </p>
-                        <p> I knew from the moment we met,you are a dangerous thing</p>
-                        <p> When you are with me, I feel like i'm living</p> 
-                        <p> And living besides you can be unforgiving</p>
-                        <p> I knew form the very first step, you are a dangerous things</p>
-                        <br/>
+                        <?php
 
-                        <p> [Chorus] </p>                        
-                        <p> There's no end to the fall</p>                        
-                        <p> You keep on getting better
-                        <p> I keep forgetting </p>                        
-                        <p> There's no love in the end</p>                        
-                        <p> I hope you will come</p>                        
-                        <p> I keep on losing feathers, I keep forgetting</p>
-                        <p> There's no love in the end</p>                        
-                        <p> No love in the end</p>                        
-                        <p> No love in the end</p>
-                        <p> No love in the end</p>
-                        <br/>
+                        echo "<p> [Verse 1] </p>";                                   
+                        echo "<p> Something about you is soft like an angel </p>";
+                        echo "<p> And something inside you is violence and danger </p>";
+                        echo "<p> I knew from the moment we met,you are a dangerous thing</p>";
+                        echo "<p> When you are with me, I feel like i'm living</p>"; 
+                        echo "<p> And living besides you can be unforgiving</p>";
+                        echo "<p> I knew form the very first step, you are a dangerous things</p>";
+                        echo "<br/>";
 
-                        <p>[Verse 2]</p>                        
-                        <p> Something about you is warm and sedusive, and</p>
-                        <div class="col-lg-12 text-center" style="color:black;" >
-                        <p> When you're with me you're cold and abusive</p>
-                        <p> I knew from the second we met, you are a dangerous flame</p>
-                        <p> You are a dangerous flame</p>
-                        <br/>
+                        echo "<p> [Chorus] </p>";                        
+                        echo "<p> There's no end to the fall</p>";                        
+                        echo "<p> You keep on getting better";
+                        echo "<p> I keep forgetting </p> ";                       
+                        echo "<p> There's no love in the end</p>";                       
+                        echo "<p> I hope you will come</p>";                       
+                        echo "<p> I keep on losing feathers, I keep forgetting</p>";
+                        echo "<p> There's no love in the end</p> ";                       
+                        echo "<p> No love in the end</p> ";                       
+                        echo "<p> No love in the end</p>";
+                        echo "<p> No love in the end</p>";
+                        echo "<br/>";
 
-                        <p> [Chorus] </p>
-                        <p> There's no end to the fall</p>
-                        <p> You keep on getting better</p>
-                        </div>
-                        <p> I keep forgetting </p>
-                        <p> There's no love in the end</p>
-                        <p> I hope you will come</p>
-                        <p> I keep on losing feathers, I keep forgetting</p>
-                        <p> There's no love in the end</p>                        
-                        <p> No love in the end</p>                        
-                        <p> No love in the end</p>                        
-                        <p> No love in the end</p>
-                        <br/>
+                        echo "<p>[Verse 2]</p>";                        
+                        echo "<p> Something about you is warm and sedusive, and</p>";                        
+                        echo "<p> When you're with me you're cold and abusive</p>";
+                        echo "<p> I knew from the second we met, you are a dangerous flame</p>";
+                        echo "<p> You are a dangerous flame</p>";
+                        echo "<br/>";
 
-                        <p> [Post-Chorus] </p>                        
-                        <p> No love in the end</p>                        
-                        <p> No love in the end</p>                        
-                        <p> No love in the end</p>
-                        <br/>
+                        echo "<p> [Chorus] </p>";
+                        echo "<p> There's no end to the fall</p>";
+                        echo "<p> You keep on getting better</p>";                        
+                        echo "<p> I keep forgetting </p>";
+                        echo "<p> There's no love in the end</p>";
+                        echo "<p> I hope you will come</p>";
+                        echo "<p> I keep on losing feathers, I keep forgetting</p>";
+                        echo "<p> There's no love in the end</p>";                        
+                        echo "<p> No love in the end</p>";                        
+                        echo "<p> No love in the end</p>";                        
+                        echo "<p> No love in the end</p>";
+                        echo "<br/>";
 
-                        <p> [Bridge] </p>                        
-                        <p> I don't think I know myself, without your help</p>
-                        <p> Oh, I wonder why have I got a heaven deep inside of me</p>
-                        <p> I keep the light on, it keeps me warm</p>
-                        <p> I hate it when I fall for your illusion of love</p>
-                        <p> I know this is not love</p>
-                        <br/>
+                        echo "<p> [Post-Chorus] </p>";                        
+                        echo "<p> No love in the end</p>";                        
+                        echo "<p> No love in the end</p>";                        
+                        echo "<p> No love in the end</p>";
+                        echo "<br/>";
 
-                        <p> [Chorus] </p> 
-                        <div class="col-lg-12 text-center" style="color:black;">                       
-                        <p> There's no end to the fall</p>                        
-                        <p> You keep on getting better</p>
-                        <p> I keep forgetting </p>                        
-                        <p> There's no love in the end</p>                       
-                        <p> I hope you will come</p>
-                        </div>                        
-                        <p> I keep on losing feathers, I keep forgetting</p>
-                        <p> There's no love in the end</p>
-                        <p> No love in the end</p>                      
-                        <p> No love in the end</p>                        
-                        <p> No love in the end</p>
-                        <br/>
+                        echo "<p> [Bridge] </p>";                        
+                        echo "<p> I don't think I know myself, without your help</p>";
+                        echo "<p> Oh, I wonder why have I got a heaven deep inside of me</p>";
+                        echo "<p> I keep the light on, it keeps me warm</p>";
+                        echo "<p> I hate it when I fall for your illusion of love</p>";
+                        echo "<p> I know this is not love</p>";
+                        echo "<br/>";
 
-                        <p> [Post-Chorus] </p>                        
-                        <p> No love in the end</p>                        
-                        <p> No love in the end</p>                        
-                        <p> No love in the end</p>
+                        echo "<p> [Chorus] </p>" ;                                              
+                        echo "<p> There's no end to the fall</p> ";                       
+                        echo "<p> You keep on getting better</p>";
+                        echo "<p> I keep forgetting </p> ";                       
+                        echo "<p> There's no love in the end</p>";                       
+                        echo "<p> I hope you will come</p>";                                               
+                        echo "<p> I keep on losing feathers, I keep forgetting</p>";
+                        echo "<p> There's no love in the end</p>";
+                        echo "<p> No love in the end</p> ";                     
+                        echo "<p> No love in the end</p>";                        
+                        echo "<p> No love in the end</p>";
+                        echo "<br/>";
+
+                        echo "<p> [Post-Chorus] </p> ";                       
+                        echo "<p> No love in the end</p>";                       
+                        echo "<p> No love in the end</p>";                      
+                        echo "<p> No love in the end</p>";
+
+                        
+                        echo "<p> [Verse 1] </p> ";                                  
+                        echo "<p> Something about you is soft like an angel </p>";
+                        echo "<p> And something inside you is violence and danger </p>";
+                        echo "<p> I knew from the moment we met,you are a dangerous thing</p>";
+                        echo "<p> When you are with me, I feel like i'm living</p>"; 
+                        echo "<p> And living besides you can be unforgiving</p>";
+                        echo "<p> I knew form the very first step, you are a dangerous things</p>";
+                        echo "<br/>";
+
+                        echo "<p> [Chorus] </p>";                        
+                        echo "<p> There's no end to the fall</p>";                       
+                        echo "<p> You keep on getting better</p>";
+                        echo "<p> I keep forgetting </p>";                        
+                        echo "<p> There's no love in the end</p>";                        
+                        echo "<p> I hope you will come</p>";                        
+                        echo "<p> I keep on losing feathers, I keep forgetting</p>";
+                        echo "<p> There's no love in the end</p> ";                       
+                        echo "<p> No love in the end</p> ";                       
+                        echo "<p> No love in the end</p>";
+                        echo "<p> No love in the end</p>";
+                        echo "<br/>";
+
+                        echo "<p>[Verse 2]</p>";                        
+                        echo "<p> Something about you is warm and sedusive, and</p>";                        
+                        echo "<p> When you're with me you're cold and abusive</p>";
+                        echo "<p> I knew from the second we met, you are a dangerous flame</p>";
+                        echo "<br/>";
+
+                        echo "<p> [Chorus] </p>";
+                        echo "<p> There's no end to the fall</p>";
+                        echo "<p> You keep on getting better</p>";                       
+                        echo "<p> I keep forgetting </p>";
+                        echo "<p> There's no love in the end</p>";
+                        echo "<p> I hope you will come</p>";
+                        echo "<p> I keep on losing feathers, I keep forgetting</p>";
+                        echo "<p> There's no love in the end</p>";                        
+                        echo "<p> No love in the end</p> ";                       
+                        echo "<p> No love in the end</p>";                        
+                        echo "<p> No love in the end</p>";
+                        echo "<br/>";
+
+                        echo "<p> [Post-Chorus] </p>";                        
+                        echo "<p> No love in the end</p>";                        
+                        echo "<p> No love in the end</p> ";                       
+                        echo "<p> No love in the end</p>";
+                        echo "<br/>";
+
+                        echo "<p> [Bridge] </p>";                        
+                        echo "<p> I don't think I know myself, without your help</p>";
+                        echo "<p> Oh, I wonder why have I got a heaven deep inside of me</p>";
+                        echo "<p> I keep the light on, it keeps me warm</p>";
+                        echo "<p> I hate it when I fall for your illusion of love</p>";
+                        echo "<p> I know this is not love</p>";
+                        echo "<br/>";
+
+                        echo "<p> [Chorus] </p>";                                               
+                        echo "<p> There's no end to the fall</p> ";                       
+                        echo "<p> You keep on getting better</p>";
+                        echo "<p> I keep forgetting </p>";                        
+                        echo "<p> There's no love in the end</p>";                       
+                        echo "<p> I hope you will come</p>";                                              
+                        echo "<p> I keep on losing feathers, I keep forgetting</p>";
+                        echo "<p> There's no love in the end</p>";
+                        echo "<p> No love in the end</p>";                      
+                        echo "<p> No love in the end</p> ";                       
+                        echo "<p> No love in the end</p>";
+                        echo "<br/>";
+
+                        echo "<p> [Post-Chorus] </p>";                       
+                        echo "<p> No love in the end</p>";                        
+                        echo "<p> No love in the end</p> ";                       
+                        echo "<p> No love in the end</p>";
+                        ?>
+
+                    
                     </div>
                 </div>
             </div>

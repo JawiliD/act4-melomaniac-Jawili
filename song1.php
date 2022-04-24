@@ -36,87 +36,89 @@
                     <div class="col-lg-12 text-center" style="color:white;">
                         <h2 class="text-info">Bones</h2>
                         <p  class="lead">Imagine Dragons</p>
-                                                
-                        <p>[Verse 1]</p>                    
-                        <p> Gimme, gimme, gimme some time to think </p>                       
-                        <p> I'm in the bathroom, looking at me </p>                        
-                        <p> Face in the mirror is all I need(Ooh-ooh)</p>                     
-                        <p> Waiting 'till the reaper takes my life</p>                        
-                        <p> Never gonna get me out alive</p> 
-                        <p> I will live a thousand million lives (Oooh-ooh)</p>
-                        <br/>
+                        <?php 
 
-                        <p>Pre-Chorus</p>                        
-                        <p> My patience is waning, Is this entertaining?</p>
-                        <p>Our patience is waning, Is this entertaining?</p>
-                        <br/>
+                        echo "<p>[Verse 1]</p>";                    
+                        echo "<p> Gimme, gimme, gimme some time to think </p>";                       
+                        echo "<p> I'm in the bathroom, looking at me </p>";                        
+                        echo "<p> Face in the mirror is all I need(Ooh-ooh)</p>";                     
+                        echo "<p> Waiting 'till the reaper takes my life</p>";                        
+                        echo "<p> Never gonna get me out alive</p> ";
+                        echo "<p> I will live a thousand million lives (Oooh-ooh)</p>";
+                        echo "<br/>";
 
-                        <p>[Chorus]</p>                        
-                        <p> I-I-I got this feeling, yeah, you know</p>                        
-                        <p> Where I'm losing all control</p>                        
-                        <p> 'Cause there's magic in my bones</p>                        
-                        <p> I-I-I got this feeling in my soul</p>                        
-                        <p> Go ahead and throw your stones</p>                        
-                        <p> 'Cause there's magic in my bones</p>
-                        <br/>
+                        echo "<p>Pre-Chorus</p>";                        
+                        echo "<p> My patience is waning, Is this entertaining?</p>";
+                        echo "<p>Our patience is waning, Is this entertaining?</p>";
+                        echo "<br/>";
 
-                        <p> [Verse 2] </p>                        
-                        <p> Playing with a stick of dynamite</p>                        
-                        <p> There was never gray in black and white</p>
-                        <p> There was never wrong 'till there was right (ooh, oh) </p>
-                        <p> Feeling like a boulder hurtling</p>                     
-                        <p> Seeing all the vultures circling</p>                        
-                        <p> Burning in the flames I'm working in</p>                        
-                        <p> Turning in a bed that's darkening</p>
-                        <br/>
+                        echo "<p>[Chorus]</p>";                        
+                        echo "<p> I-I-I got this feeling, yeah, you know</p>";                        
+                        echo "<p> Where I'm losing all control</p> ";                       
+                        echo "<p> 'Cause there's magic in my bones</p> ";                       
+                        echo "<p> I-I-I got this feeling in my soul</p>";                        
+                        echo "<p> Go ahead and throw your stones</p>";                        
+                        echo "<p> 'Cause there's magic in my bones</p>";
+                        echo "<br/>";
 
-                        <p>[Pre-Chorus]</p>                        
-                        <p> My patience is waning, Is this entertaining?</p>
-                        <p> My patience is waning, Is this entertaining?</p>
-                        <br/>
+                        echo "<p> [Verse 2] </p> ";                       
+                        echo "<p> Playing with a stick of dynamite</p>";                        
+                        echo "<p> There was never gray in black and white</p>";
+                        echo "<p> There was never wrong 'till there was right (ooh, oh) </p>";
+                        echo "<p> Seeing all the vultures circling</p> ";                        
+                        echo "<p> Burning in the flames I'm working in</p>";                        
+                        echo "<p> Turning in a bed that's darkening</p>";
+                        echo "<br/>";
 
-                        <p>[Chorus]</p>                        
-                        <p> I-I-I got this feeling, yeah, you know</p>                        
-                        <p> Where I'm losing all control</p>                        
-                        <p> 'Cause there's magic in my bones</p>                        
-                        <p> I-I-I got this feeling in my soul</p>                        
-                        <p> Go ahead and throw your stones</p>                        
-                        <p> 'Cause there's magic in my bones</p>
-                        <br/>
+                        echo "<p>[Pre-Chorus]</p> ";                       
+                        echo "<p> My patience is waning, Is this entertaining?</p>";
+                        echo "<p> My patience is waning, Is this entertaining?</p>";
+                        echo "<br/>";
 
-                        <p>[Post-Chorus]</p>                        
-                        <p> 'Cause there's magic in my bones</p>
-                        <br/>
+                        echo "<p>[Chorus]</p>";                       
+                        echo "<p> I-I-I got this feeling, yeah, you know</p>";                        
+                        echo "<p> Where I'm losing all control</p>";                        
+                        echo "<p> 'Cause there's magic in my bones</p>";                        
+                        echo "<p> I-I-I got this feeling in my soul</p>";                        
+                        echo "<p> Go ahead and throw your stones</p>";                        
+                        echo "<p> 'Cause there's magic in my bones</p>";
+                        echo "<br/>";
 
-                        <p>[Bridge]</p>
-                        <p> Look in the mirror of my mind</p>                        
-                        <p> Turning the pages of my life</p>                        
-                        <p> Walking the path so many paced a million times </p>
-                        <p> Drown out the voices in the air</p>                        
-                        <p> Leaving the ones that never cared</p>                        
-                        <p> Picking the pieces up and building to the sky</p>        
-                        <br/>
+                        echo "<p>[Post-Chorus]</p> ";                       
+                        echo "<p> 'Cause there's magic in my bones</p>";
+                        echo "<br/>";
 
-                        <p>[Pre-Chorus]</p>
-                        <p> My patience is waning, Is this entertaining?</p>
-                        <p> My patience is waning, Is this entertaining?</p>                
+                        echo "<p>[Bridge]</p>";
+                        echo "<p> Look in the mirror of my mind</p>";                        
+                        echo "<p> Turning the pages of my life</p>";                        
+                        echo "<p> Walking the path so many paced a million times </p>";
+                        echo "<p> Drown out the voices in the air</p>";                        
+                        echo "<p> Leaving the ones that never cared</p>";                        
+                        echo "<p> Picking the pieces up and building to the sky</p> ";       
+                        echo "<br/>";
 
-                        <p>[Chorus]</p>                        
-                        <p> I-I-I got this feeling, yeah, you know</p>                        
-                        <p> Where I'm losing all control</p>                        
-                        <p> 'Cause there's magic in my bones</p>                        
-                        <p> I-I-I got this feeling in my soul</p>                        
-                        <p> Go ahead and throw your stones</p>                        
-                        <p> 'Cause there's magic in my bones</p>
-                        <br/>
+                        echo "<p>[Pre-Chorus]</p>";
+                        echo "<p> My patience is waning, Is this entertaining?</p>";
+                        echo "<p> My patience is waning, Is this entertaining?</p> ";               
 
-                        <p> [Outro] </p>                        
-                        <p> There goes my mind (I-I-I), don't mind</p>                        
-                        <p> There goes my mind </p>                        
-                        <p> There goes my mind, don't mind</p>                        
-                        <p> There goes my mind</p>
-                        <p> 'Cause there's magic in my bones </p>
-                        <br/>
+                        echo "<p>[Chorus]</p>";                        
+                        echo "<p> I-I-I got this feeling, yeah, you know</p> ";                       
+                        echo "<p> Where I'm losing all control</p>";                        
+                        echo "<p> 'Cause there's magic in my bones</p> ";                       
+                        echo "<p> I-I-I got this feeling in my soul</p> ";                       
+                        echo "<p> Go ahead and throw your stones</p>";                        
+                        echo "<p> 'Cause there's magic in my bones</p>";
+                        echo "<br/>";
+
+                        echo "<p> [Outro] </p>";                        
+                        echo "<p> There goes my mind (I-I-I), don't mind</p> ";                       
+                        echo "<p> There goes my mind </p>";                        
+                        echo "<p> There goes my mind, don't mind</p> ";                       
+                        echo "<p> There goes my mind</p>";
+                        echo "<p> 'Cause there's magic in my bones </p>";
+                        echo "<br/>";
+                        ?>                       
+                        
 
                         
                         

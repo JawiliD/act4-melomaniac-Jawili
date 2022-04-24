@@ -39,99 +39,102 @@
                     <div class="col-lg-12 text-center" style="color:whitesmoke;">
                         <h2 class="text-info">Believer</h2>
                         <p class="lead">Imagine Dragons</p>
-                        <p> [First Verse] </p> 
-                        <p> First things first </p>
-                        <p> I'ma say all the words inside my head </p>
-                        <p> I'm fired up and tired of the </p>
-                        <p> The way that things have been, oh-ooh</p>
-                        <p> The way that things have been, oh-ooh</p>
-                        <br/>
+                        <<?php  
+                        echo "<p> [First Verse] </p>"; 
+                        echo "<p> First things first </p>";
+                        echo "<p> I'ma say all the words inside my head </p>";
+                        echo "<p> I'm fired up and tired of the </p>";
+                        echo "<p> The way that things have been, oh-ooh</p>";
+                        echo "<p> The way that things have been, oh-ooh</p>";
+                        echo "<br/>";
 
-                        <p> [Verse 2] </p>                       
-                        <p> Second things second</p>                        
-                        <p> Don't you tell me what you think that I could be</p>
-                        <p> I'm the one at the sail, I'm the master of my sea, oh-ooh</p> 
-                        <p> The master of my sea, oh-ooh</p>
-                        </br>
+                        echo "<p> [Verse 2] </p>";                       
+                        echo "<p> Second things second</p>";                        
+                        echo "<p> Don't you tell me what you think that I could be</p>";
+                        echo "<p> I'm the one at the sail, I'm the master of my sea, oh-ooh</p>"; 
+                        echo "<p> The master of my sea, oh-ooh</p>";
+                        echo "</br>";
 
-                        <p> [Pre-Chorus] </p>
-                        <p>I was broken from a young age</p>               
-                        <p> Taking my sulking to the masses</p>
-                        <p> Writing my poems for the few</p>
-                        <p> That look at me, took to me, shook to me, feeling me</p>
-                        <p> Singing from heartache from the pain</p>
-                        <p> Taking my message from the veins</p>
-                        <p> Speaking my lesson from the brain</p>
-                        <p> Seeing the beauty through the...</p>
-                        <br/>
+                        echo "<p> [Pre-Chorus] </p";
+                        echo "<p>I was broken from a young age</p>";               
+                        echo "<p> Taking my sulking to the masses</p>";
+                        echo "<p> Writing my poems for the few</p>";
+                        echo "<p> That look at me, took to me, shook to me, feeling me</p>";
+                        echo "<p> Singing from heartache from the pain</p>";
+                        echo "<p> Taking my message from the veins</p>";
+                        echo "<p> Speaking my lesson from the brain</p>";
+                        echo "<p> Seeing the beauty through the...</p>";
+                        echo "<br/>";
 
-                        <p> [Chorus] </p>
-                        <p> Pain! You made me a, you made me a </p>
-                        <p> Believer, believer</p>
-                        <p> Pain! You break me down and build me up, </p>
-                        <p> Believer, believer</p>
-                        <p> Pain! Oh, let the bullets fly, oh, let them rain</p>
-                        <p> My life, my love, my drive, it came from...</p>
-                        <p> Pain! You made me a, you made me a</p>
-                        <p> Believer, believer</p>
-                        <br/>
+                        echo "<p> [Chorus] </p>";
+                        echo "<p> Pain! You made me a, you made me a </p>";
+                        echo "<p> Believer, believer</p>";
+                        echo "<p> Pain! You break me down and build me up, </p>";
+                        echo "<p> Believer, believer</p>";
+                        echo "<p> Pain! Oh, let the bullets fly, oh, let them rain</p>";
+                        echo "<p> My life, my love, my drive, it came from...</p>";
+                        echo "<p> Pain! You made me a, you made me a</p>";
+                        echo "<p> Believer, believer</p>";
+                        echo "<br/>";
 
-                        <p> [Verse 3] </p>                       
-                        <p> Third things third</p>                        
-                        <p> Send a prayer to the ones up above</p>                       
-                        <p> All the hate that you've heard </p>
-                        <p> Has turned your spirit to a dove, oh-ooh </p>
-                        <p> Your spirit up above, oh-ooh</p>
+                        echo "<p> [Verse 3] </p>";                       
+                        echo "<p> Third things third</p>";                        
+                        echo "<p> Send a prayer to the ones up above</p>";                       
+                        echo "<p> All the hate that you've heard </p>";
+                        echo "<p> Has turned your spirit to a dove, oh-ooh </p>";
+                        echo "<p> Your spirit up above, oh-ooh</p>";
 
 
-                        <p> [Pre - Chorus] </p>
-                        <p> I was choking in the crowd</p>
-                        <p> Living my brain up in the cloud</p>
-                        <p> Falling like ashes in the ground</p>
-                        <p> Hoping my feelings, they would drown</p>
-                        <p> But they never did, ever lived, ebbing and flowing</p>
-                        <p> Inhibited, limited</p>
-                        <p> till it broke up and it rained down</p>
-                        <p> It rained down, like...</p>                        
-                        <br/>                  
+                        echo "<p> [Pre - Chorus] </p>";
+                        echo "<p> I was choking in the crowd</p>";
+                        echo "<p> Living my brain up in the cloud</p>";
+                        echo "<p> Falling like ashes in the ground</p>";
+                        echo "<p> Hoping my feelings, they would drown</p>";
+                        echo "<p> But they never did, ever lived, ebbing and flowing</p>";
+                        echo "<p> Inhibited, limited</p>";
+                        echo "<p> till it broke up and it rained down</p>";
+                        echo "<p> It rained down, like...</p>";                        
+                        echo "<br/>";                  
                     
 
-                        <p> [Chorus] </p>
-                        <p> Pain! You made me a, you made me a </p>
-                        <p> Believer, believer</p>
-                        <p> Pain! You break me down and build me up, </p>
-                        <p> Believer, believer</p>
-                        <p> Pain! Oh, let the bullets fly, oh, let them rain</p>
-                        <p> My life, my love, my drive, it came from...</p>
-                        <p> Pain! You made me a, you made me a</p>
-                        <p> Believer, believer</p>
-                        <br/>
+                        echo "<p> [Chorus] </p>";
+                        echo "<p> Pain! You made me a, you made me a </p>";
+                        echo "<p> Believer, believer</p>";
+                        echo "<p> Pain! You break me down and build me up, </p>";
+                        echo "<p> Believer, believer</p>";
+                        echo "<p> Pain! Oh, let the bullets fly, oh, let them rain</p>";
+                        echo "<p> My life, my love, my drive, it came from...</p>";
+                        echo "<p> Pain! You made me a, you made me a</p>";
+                        echo "<p> Believer, believer</p>";
+                        echo "<br/>";
 
 
-                        <p> [Verse 4] </p>
-                        <p> last things last</p>                    
-                        <p> By the grace of the fire and the flames</p>
-                        <p> You're the face of the future</p>                        
-                        <p> The blood in my veins, oh-ooh</p>  
-                        <p> The blood in my veins, oh-ooh</p>
-                        <br/>
+                        echo "<p> [Verse 4] </p>";
+                        echo "<p> last things last</p>";                    
+                        echo "<p> By the grace of the fire and the flames</p>";
+                        echo "<p> You're the face of the future</p>";                        
+                        echo "<p> The blood in my veins, oh-ooh</p>";  
+                        echo "<p> The blood in my veins, oh-ooh</p>";
+                        echo "<br/>";
 
-                        <p>[Pre-Chorus]</p>
-                        <p> But they never did, ever lived, ebbin' and flowin'</p>
-                        <p> Inhibited, limited 'till it broke up and it rained down</p>
-                        <p> It rained down, like...</p>
-                        <br/>
+                        echo "<p>[Pre-Chorus]</p>";
+                        echo "<p> But they never did, ever lived, ebbin' and flowin'</p>";
+                        echo "<p> Inhibited, limited 'till it broke up and it rained down</p>";
+                        echo "<p> It rained down, like...</p>";
+                        echo "<br/>";
 
-                        <p> [Chorus] </p>
-                        <p> Pain! You made me a, you made me a </p>
-                        <p> Believer, believer</p>
-                        <p> Pain! You break me down and build me up, </p>
-                        <p> Believer, believer</p>
-                        <p> Pain! Oh, let the bullets fly, oh, let them rain</p>
-                        <p> My life, my love, my drive, it came from...</p>
-                        <p> Pain! You made me a, you made me a</p>
-                        <p> Believer, believer</p>
-                        <br/>
+                        echo "<p> [Chorus] </p>";
+                        echo "<p> Pain! You made me a, you made me a </p>";
+                        echo "<p> Believer, believer</p>";
+                        echo "<p> Pain! You break me down and build me up, </p>";
+                        echo "<p> Believer, believer</p>";
+                        echo "<p> Pain! Oh, let the bullets fly, oh, let them rain</p>";
+                        echo "<p> My life, my love, my drive, it came from...</p>";
+                        echo "<p> Pain! You made me a, you made me a</p>";
+                        echo "<p> Believer, believer</p>";
+                        echo "<br/>"
+                        ?>
+                        
                     </div>
                 </div>
             </div>

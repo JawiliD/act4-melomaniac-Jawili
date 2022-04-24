@@ -1,4 +1,6 @@
 
+<?php  ?>
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -38,70 +40,74 @@
                     <div class="col-lg-12 text-center" style="color:lightgoldenrodyellow;">
                         <h2 class="text-warning">Good Intention</h2>
                         <p class="lead">RINI</p>
-
-                        <p> [Verse 1] </p>
-                        <p> You heard somebody calling out your name</p>                        
-                        <p> It must be love again </p>
-                        <p> But you're done playing games</p>
-                        <p> Afraid to try she said it'll never be the same</p>
-                        <p> Can't blame her for how she feels</p>
-                        <p> But I know things can change</p>
-                        <p> Would you give me your time</p>
-                        <p> Give me a place inside your mind</p>
-                        <p> I know you're looking for something</p>
-                        <p> And there's only one thing you desire</p>
-                        <p> Ain't something money can buy</p>
                         
-                        <p> It's not the fortune or the fame</p>
-                        <p> All those things don't mean nothing to you</p>
-                        <p> You want something real, so</p>
+                        <?php
+                        echo "<p> [Verse 1] </p>";
+                        echo "<p> You heard somebody calling out your name</p>";                       
+                        echo "<p> It must be love again </p>";
+                        echo "<p> But you're done playing games</p>";
+                        echo "<p> Afraid to try she said it'll never be the same</p>";
+                        echo "<p> Can't blame her for how she feels</p>";
+                        echo "<p> But I know things can change</p>";
+                        echo "<p> Would you give me your time</p>";
+                        echo "<p> Give me a place inside your mind</p>";
+                        echo "<p> I know you're looking for something</p>";
+                        echo "<p> And there's only one thing you desire</p>";
+                        echo "<p> Ain't something money can buy</p>";                        
+                        echo "<p> It's not the fortune or the fame</p>";
+                        echo "<p> All those things don't mean nothing to you</p>";
+                        echo "<p> You want something real, so</p>";
+                        echo "<br>";
 
 
-                        <p> [Chorus] </p>
-                        <p> You gave it everything for love </p>
-                        <p> It wasn't what you expected</p>
-                        <p> The first time let you down</p>
-                        <p> These walls are way too high to climb</p>
-                        <p> May take a lifetime to break it</p>
-                        <p> But I don't mind</p>
-                        <p> Got nothing but good intentions for you</p>
-                        <p> Good intentions for you girl </p>
-                        <p> Got nothing but good intentions </p>
+                        echo "<p> [Chorus] </p>";
+                        echo "<p> You gave it everything for love </p>";
+                        echo "<p> It wasn't what you expected</p>";
+                        echo "<p> The first time let you down</p>";
+                        echo "<p> These walls are way too high to climb</p>";
+                        echo "<p> May take a lifetime to break it</p>";
+                        echo "<p> But I don't mind</p>";
+                        echo "<p> Got nothing but good intentions for you</p>";
+                        echo "<p> Good intentions for you girl </p>";
+                        echo "<p> Got nothing but good intentions </p>";
 
-                        <p> [Verse 2] </p>
-                        <p> You hear the voices whisper in your ear </p>                        
-                        <p> They're telling you something else</p>                        
-                        <p> But you can't trust yourself</p>                        
-                        <p> Too many doubts, too many fears get in the way</p>                    
-                        <p> Only wanted to show you</p>                                           
-                        <p> Let me show you something new</p>
-                        <p> If you give it a chance, we'll plant seed</p>               
-                        <p> And watch it grow</p>            
-                        <p> I'll take my time, get to know you</p>
-                        <p> I wanna see you inside out</p>                        
-                        <p> Tell me everything (Everything)</p>                        
-                        <p> All your hopes and all your dreams</p>                        
-                        <p> Let me hear your story I'll be right here</p>
-                        <p>    Gm          F</p>
-                        <p> Til the end of time</p>
-                        <br/>
+                        echo "<p> [Verse 2] </p>";
+                        echo "<p> You hear the voices whisper in your ear </p>";                        
+                        echo "<p> They're telling you something else</p>";                        
+                        echo "<p> But you can't trust yourself</p>";                        
+                        echo "<p> Too many doubts, too many fears get in the way</p>";                    
+                        echo "<p> Only wanted to show you</p>";                                           
+                        echo "<p> Let me show you something new</p>";
+                        echo "<p> If you give it a chance, we'll plant seed</p>";               
+                        echo "<p> And watch it grow</p>";            
+                        echo "<p> I'll take my time, get to know you</p>";
+                        echo "<p> I wanna see you inside out</p>";                        
+                        echo "<p> Tell me everything (Everything)</p>";                        
+                        echo "<p> All your hopes and all your dreams</p>";                        
+                        echo "<p> Let me hear your story I'll be right here</p>";
+                        echo "<p>    Gm          F</p>";
+                        echo "<p> Til the end of time</p>";
+                        echo "<br/>";
 
-                        <p> [Chorus] </p>
-                        <p> You gave it everything for love </p>
-                        <p> It wasn't what you expected</p>
-                        <p> The first time let you down</p>
-                        <p> These walls are way too high to climb</p>
-                        <p> May take a lifetime to break it</p>
-                        <p> But I don't mind</p>
-                        <p> Got nothing but good intentions for you</p>
-                        <p> Good intentions for you girl </p>
-                        <p> Got nothing but good intentions </p>
+                        echo "<p> [Chorus] </p>";
+                        echo "<p> You gave it everything for love </p>";
+                        echo "<p> It wasn't what you expected</p>";
+                        echo "<p> The first time let you down</p>";
+                        echo "<p> These walls are way too high to climb</p>";
+                        echo "<p> May take a lifetime to break it</p>";
+                        echo "<p> But I don't mind</p>";
+                        echo "<p> Got nothing but good intentions for you</p>";
+                        echo "<p> Good intentions for you girl </p>";
+                        echo "<p> Got nothing but good intentions </p>";
 
-                        <p> [Outro] </p>
-                        <p> You know I got nothing but good intentions </p>
-                        <p> You know I got</p>
-                        <p> You know I got nothing but good intentions</p>
-                        <p> You know I got nothing but good intentions</p>  
+                        echo "<p> [Outro] </p>";
+                        echo "<p> You know I got nothing but good intentions </p>";
+                        echo "<p> You know I got</p>";
+                        echo "<p> You know I got nothing but good intentions</p>";
+                        echo "<p> You know I got nothing but good intentions</p>";
+
+                      ?>  
+
                     </div>
                 </div>
             </div>

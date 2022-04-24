@@ -38,86 +38,87 @@
                         <h2 class="text-danger">Come Inside of My Heart</h2>
                         <p class="lead">Ben&Ben</p>
 
-                        <p>[Verse 1]</p>           
-                        <p> I love you </p> 
-                        <p> But I don't really show you </p>
-                        <p> I'd call you</p>                     
-                        <p> But only if you want me too</p>
-                        <br/>
+                        <?php 
+                        echo "<p>[Verse 1]</p>";           
+                        echo "<p> I love you </p>"; 
+                        echo "<p> But I don't really show you </p>";
+                        echo "<p> I'd call you</p>" ;                    
+                        echo "<p> But only if you want me too</p>";
+                        echo "<br/>";
                       
-                        <p>[Pre-Chorus]</p>
-                        <p> Oh, don't you let it stop</p>
-                        <p> Oh, I won't let it happen, baby</p>
-                        <p> I will never stop</p>
-                        <p> But only if you listen to me</p>
-                        <br/>
+                        echo "<p>[Pre-Chorus]</p>";
+                        echo "<p> Oh, don't you let it stop</p>";
+                        echo "<p> Oh, I won't let it happen, baby</p>";
+                        echo "<p> I will never stop</p>";
+                        echo "<p> But only if you listen to me</p>";
+                        echo "<br/>";
      
-                        <p>[Chorus]</p>                    
-                        <p> Come inside of my heart</p>
-                        <p> If you're looking for answers</p>                        
-                        <p> Look at the stars, go a little bit faster</p>                     
-                        <p> Ooh, ooh, hooh-ahh-ooh</p>                        
-                        <p> Hooh-agg-ahh</p>
-                        <br/>
+                        echo "<p>[Chorus]</p>";                    
+                        echo "<p> Come inside of my heart</p>";
+                        echo "<p> If you're looking for answers</p>";                        
+                        echo "<p> Look at the stars, go a little bit faster</p>";                     
+                        echo "<p> Ooh, ooh, hooh-ahh-ooh</p>";                        
+                        echo "<p> Hooh-agg-ahh</p>";
+                        echo "<br/>";
                         
-                        <p> Come inside of my heart</p>
-                        <p> If you're looking for answers</p>                        
-                        <p> Look at the stars, go a little bit faster</p>                     
-                        <p> Ooh, ooh, hooh-ahh-ooh</p>
-                        <br/>
+                        echo "<p> Come inside of my heart</p>";
+                        echo "<p> If you're looking for answers</p>";                        
+                        echo "<p> Look at the stars, go a little bit faster</p>";                     
+                        echo "<p> Ooh, ooh, hooh-ahh-ooh</p>";
+                        echo "<br/>";
 
-                        <p> [Verse 2] </p>    
-                        <p> Oh, baby</p>
-                        <p> Forgive me if I hurt you</p>
-                        <p> Come save me</p>
-                        <p> 'Cause you're the only one for me</p>
-                        <br>
+                        echo "<p> [Verse 2] </p>";    
+                        echo "<p> Oh, baby</p>";
+                        echo "<p> Forgive me if I hurt you</p>";
+                        echo "<p> Come save me</p>";
+                        echo "<p> 'Cause you're the only one for me</p>";
+                        echo "<br>";
 
-                        <p>[Pre-Chorus]</p>
-                        <p> Oh, don't you let it stop</p>
-                        <p> Oh, I won't let it happen, baby</p>
-                        <p> I will never stop</p>
-                        <p> But only if you listen to me</p>
-                        <br/>
+                        echo "<p>[Pre-Chorus]</p>";
+                        echo "<p> Oh, don't you let it stop</p>";
+                        echo "<p> Oh, I won't let it happen, baby</p>";
+                        echo "<p> I will never stop</p>";
+                        echo "<p> But only if you listen to me</p>";
+                        echo "<br/>";
 
-                        <p>[Chorus]</p>                    
-                        <p> Come inside of my heart</p>
-                        <p> If you're looking for answers</p>                        
-                        <p> Look at the stars, go a little bit faster</p>                     
-                        <p> Ooh, ooh, hooh-ahh-ooh</p>                        
-                        <p> Hooh-agg-ahh</p>
-                        <br/>
+                        echo "<p>[Chorus]</p>";                    
+                        echo "<p> Come inside of my heart</p>";
+                        echo "<p> If you're looking for answers</p>";                       
+                        echo "<p> Look at the stars, go a little bit faster</p>";                    
+                        echo "<p> Ooh, ooh, hooh-ahh-ooh</p>";                        
+                        echo "<p> Hooh-agg-ahh</p>";
+                        echo "<br/>";
                         
-                        <p> Come inside of my heart</p>
-                        <p> If you're looking for answers</p>                        
-                        <p> Look at the stars, go a little bit faster</p>                     
-                        <p> Ooh, ooh, hooh-ahh-ooh</p>
-                        <br/>
-                                                ;
-                        <p> [Bridge]</p>                        
-                        <p> Whatever happens to me, baby</p>                  
-                        <p> I'm sorry</p>
-                        <p> No one could ever go my way</p>
-                        <p> I love you</p>
-                        <p> But I don't really show you </p>
-                        <br/>
+                        echo "<p> Come inside of my heart</p>";
+                        echo "<p> If you're looking for answers</p>";                        
+                        echo "<p> Look at the stars, go a little bit faster</p>";                     
+                        echo "<p> Ooh, ooh, hooh-ahh-ooh</p>";
+                        echo "<br/>";
+                        echo "<p> [Bridge]</p>";                       
+                        echo "<p> Whatever happens to me, baby</p>";                  
+                        echo "<p> I'm sorry</p>";
+                        echo "<p> No one could ever go my way</p>";
+                        echo "<p> I love you</p>";
+                        echo "<p> But I don't really show you </p>";
+                        echo "<br/>";
 
-                        <p>[Chorus]</p>                    
-                        <p> Come inside of my heart</p>
-                        <p> If you're looking for answers</p>                        
-                        <p> Look at the stars, go a little bit faster</p>                     
-                        <p> Ooh, ooh, hooh-ahh-ooh</p>                        
-                        <p> Hooh-agg-ahh</p>
-                        <p> (Come inside my heart, baby)</p>
-                        <br/>
+                        echo "<p>[Chorus]</p>";                    
+                        echo "<p> Come inside of my heart</p>";
+                        echo "<p> If you're looking for answers</p>";                        
+                        echo "<p> Look at the stars, go a little bit faster</p>";                     
+                        echo "<p> Ooh, ooh, hooh-ahh-ooh</p>";                       
+                        echo "<p> Hooh-agg-ahh</p>;";
+                        echo "<p> (Come inside my heart, baby)</p>";
+                        echo "<br/>";
                         
-                        <p> Come inside of my heart</p>
-                        <p> (Come in my heart)</p>
-                        <p> If you're looking for answers</p>                        
-                        <p> Look at the stars, go a little bit faster</p>
-                        <p> (Come in my heart)</p>                     
-                        <p> Ooh, ooh, hooh-ahh-ooh</p>
-                        <br/>
+                        echo "<p> Come inside of my heart</p>";
+                        echo "<p> (Come in my heart)</p>";
+                        echo "<p> If you're looking for answers</p>";                        
+                        echo "<p> Look at the stars, go a little bit faster</p>";
+                        echo "<p> (Come in my heart)</p>";                    
+                        echo "<p> Ooh, ooh, hooh-ahh-ooh</p>";
+                        echo "<br/>";
+                         ?>
         
                     </div>
                 </div>
